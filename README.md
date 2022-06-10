@@ -3,7 +3,7 @@ A solar powered phone charger
 
 # Description 
 
-This project was created to furfill the class requirments for Power Electionics at Walla Walla University in the Spring of 2022, taught by Dr. Rob Frohne(https://github.com/frohro). A simple solar powered phone charger intended to charge android smart phone devices was created.  
+This project was created to furfill the class requirments for Power Electionics at Walla Walla University in the Spring of 2022, taught by [Dr. Rob Frohne](https://github.com/frohro). A simple solar powered phone charger intended to charge android smart phone devices was created.  
 
 # Specifications 
 
