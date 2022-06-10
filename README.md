@@ -25,7 +25,7 @@ Input supply type (DC) <br/>
 • Vin min: 14V <br/>
 • Vin max: 25V <br/>
 
-Output 
+Output <br/>
 • Vout: 5V <br/>
 • Iout Max: 5A <br/>
 
@@ -38,8 +38,12 @@ Below is the selected design we have chosen generated from WEBENCH. It was pick 
 ![image](https://user-images.githubusercontent.com/82369669/173071248-8e9e7c20-9974-4c67-a5f5-4f57504e4505.jpeg)
 
 
+# KIcad PCB 
 
-# PCB 
+Using Kicad we made a another schematic and PCB to get printed off. Below is the Kicad schematic and PCB 
+
+![Image 6-10-22 at 6 11 AM](https://user-images.githubusercontent.com/82369669/173071942-550d6607-ca1d-4d05-b8c0-24a835940404.jpg)
+
 
 # Build and Test 
 
