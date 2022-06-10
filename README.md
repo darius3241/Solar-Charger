@@ -53,6 +53,21 @@ Using Kicad we made a another schematic and PCB to get printed off. Below is the
  <img width="593" alt="image" src="https://user-images.githubusercontent.com/82369669/173073592-07289acb-cb06-40e9-a48f-375994e2c79d.png">
 
 
+# Results 
+
+Below is a photo of a completed design 
+
+![B85DE411-732C-41A4-8914-88FEC19A5805_1_105_c](https://user-images.githubusercontent.com/82369669/173080564-be44f85a-ab90-47f3-945d-bc31873ae179.jpeg)
+![05CC048C-119B-479E-B66E-3C8F0EDC0148_1_105_c](https://user-images.githubusercontent.com/82369669/173080644-b5cbf91a-2d6a-4141-9e1c-01a16ea4d7a1.jpeg)
+
+# Experimental Test Results 
+
+Using the power supply we got: <br/>
+Output voltage: 5v <br/>
+Input current: 460 mA <br/>
+
+
+
 
 
 
