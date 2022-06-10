@@ -56,7 +56,7 @@ Below outlines our build and test procedures once our PCB's came in <br/>
   a. DO NOT SOLDER USB-A PORT YET <br/>
   b. Start with only one board at a time until it has been tested and it works <br/>
   c. Use the interactive Html Bom to help with this process <br/>
-    i. As well as schematic for reference <br/>
+      i. As well as schematic for reference <br/>
 3. Hook up board to a power supply that has an amp meter <br/>
   a. Check to see if current is too high (look at datasheet for this) <br/>
 4. Test the output voltage, it should be around 5 volts <br/>
@@ -68,9 +68,9 @@ Below outlines our build and test procedures once our PCB's came in <br/>
 a. Look at this link for instructions <br/>
 7. Test Solar Panels <br/>
   a. Use the multi-meter to perform an open and short circuit test <br/>
-    i. Open circuit test <br/>
+      i. Open circuit test <br/>
         a. In the voltage setting, should be 9v <br/>
-    ii. Short Circuit test <br/>
+      ii. Short Circuit test <br/>
         a. In the current setting, it should be 300. mA <br/>
         b. Make sure the multi-meter can take 300 mA <br/>
 8. Attach solar panels to board <br/>	
