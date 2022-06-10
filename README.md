@@ -19,11 +19,11 @@ Our design was made using the WEBENCH design tool created by Texas Instruments
 
 ![image](https://user-images.githubusercontent.com/82369669/173068782-e39c2bb7-511e-4eab-a780-876c3613222e.jpeg)
 
-The process was simple. To use this tool we had to specify our just a few parameters which were 
+The process was simple. To use this tool we had to specify our just a few parameters which were <br/>
 
-Input supply type (DC) 
-• Vin min: 14V
-• Vin max: 25V
+Input supply type (DC) <br/>
+• Vin min: 14V <br/>
+• Vin max: 25V <br/>
 
 Output 
 • Vout: 5V <br/>
