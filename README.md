@@ -7,7 +7,7 @@ This project was created to furfill the class requirments for Power Electionics 
 
 # Specifications 
 
-The specifications for this charger are: 
+The specifications for this charger are: <br/>
 • 3W Solar Panel <br/>
 • Take between 9 - 12 volts <br/>
 • Output current of 333 mA <br/>
@@ -26,11 +26,17 @@ Input supply type (DC)
 • Vin max: 25V
 
 Output 
-• Vout: 5V 
-• Iout Max: 5A 
+• Vout: 5V <br/>
+• Iout Max: 5A <br/>
 
+Once the parameters were entered, WEBENCH gave us a variety of designs that met are specificiation. 
 
 # Schematic
+
+Below is the selected design we have chosen generated from WEBENCH. It was pick becasue it was one of the only designs that used components that werem't sold out. Due to the world-wide chip shortand many designs had components that were out of stock. Fortunately, we were able to find this design.
+
+![image](https://user-images.githubusercontent.com/82369669/173071248-8e9e7c20-9974-4c67-a5f5-4f57504e4505.jpeg)
+
 
 
 # PCB 
