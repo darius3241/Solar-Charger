@@ -8,10 +8,10 @@ This project was created to furfill the class requirments for Power Electionics 
 # Specifications 
 
 The specifications for this charger are: 
-• 3W Solar Panel 
-• Take between 9 - 12 volts 
-• Output current of 333 mA 
-• Uses a buck converter 
+• 3W Solar Panel <br/>
+• Take between 9 - 12 volts <br/>
+• Output current of 333 mA <br/>
+• Uses a buck converter <br/>
 
 # Design 
 
